@@ -1,0 +1,51 @@
+*{
+border: darkgoldenrod;
+}
+img{
+    outline:black;
+}
+
+h1{
+    color:red;
+}
+
+
+body{
+    background-image: url("website photo.png");
+}
+
+.color{
+    color: yellow;
+ }
+ 
+ .make{
+     color: green;
+ }
+
+ .tea{
+     color: blue;
+ }
+
+ .cake{
+     color:white;
+ }
+
+ .jump{
+     color: black;
+ }
+
+ .kick{
+     color: transparent;
+ }
+
+.menu{
+    border: solid;
+    display: flex;
+    justify-content:end;
+}
+
+.a{
+    border: solid;
+    display: flex;
+    justify-content:start;
+}
